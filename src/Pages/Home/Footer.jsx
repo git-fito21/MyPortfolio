@@ -81,7 +81,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href="https://web.facebook.com"
+                href="https://www.facebook.com/arfito.saputra.777/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"

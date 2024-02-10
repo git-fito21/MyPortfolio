@@ -31,7 +31,8 @@
       "src": "./img/placeholder-image.png",
       "title": "Ahuse",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "link": "View In Github",
+      "href": "https://github.com/git-fito21/"
     },
     {
       "id": "2",

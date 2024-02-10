@@ -73,8 +73,8 @@ export default function ContactMe() {
           <input type="checkbox" required name="checkbox" id="checkbox" />
           <span className="text-sm">I accept the terms</span>
         </label>
+        <button className="btn btn-primary contact--form--btn">Submit</button>
         <div>
-          <button className="btn btn-primary contact--form--btn">Submit</button>
         </div>
       </form>
     </section>

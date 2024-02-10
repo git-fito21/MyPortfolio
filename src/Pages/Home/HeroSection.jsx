@@ -13,8 +13,9 @@ export default function HeroSection() {
           In today's digital journey, great user experience is the key to success. I am a UI/UX designer ready to help you create a stunning appearance and optimal experience for your users
             <br /> 
           </p>
+          <button className="btn btn-primary">Get In Touch</button>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+
       </div>
       <div className="hero--section--img">
         <img src="./img/Arfito.jpg"/>

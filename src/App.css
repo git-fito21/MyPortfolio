@@ -227,13 +227,21 @@ h2 {
   font-weight: 400;
   line-height: 36px;
 }
+.btn-primary {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
 .hero--section--img {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .hero--section--img > img {
   border-radius: 35px;
-  width: 70%;
-  height: 50%;
+  width: 65%;
+  height: 40%;
 }
 /* Hero Section Style Ends */
 
@@ -321,6 +329,11 @@ h2 {
   width: 75%;
   height: 75%;
 }
+.about--section--img {
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
 /* About Us Ends */
 
 /* My Portfolio Starts */
@@ -340,7 +353,7 @@ h2 {
 .portfolio--container {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   gap: 21.3px;
 }
 .portfolio--section--container {
