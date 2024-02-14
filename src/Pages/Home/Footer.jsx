@@ -146,7 +146,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit/"
+                href="https://www.linkedin.com/in/arfito-saputra-88496327b/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"

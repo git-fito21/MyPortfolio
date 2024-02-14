@@ -3,26 +3,26 @@
     {
       "id": "1",
       "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Front-end adalah panggungnya interaktivitas. Membuat antarmuka yang merespons dan memberikan umpan balik instan adalah esensi dari pengembangan front-end yang hebat."
+      "title": "Prototyping",
+      "description": "Prototyping is the initial model or version of digital products, such as mobile applications or web sites, developed by designers and engineers to test functionality, ease of use, and user interaction before final implementation."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Back-end development adalah pintu belakang yang menjalankan logika, mengelola data, dan menjaga segalanya tetap berjalan mulus di balik layar. Inilah otaknya aplikasi."
+      "title": "Wireframe",
+      "description": "A wireframe is a simple, colorless visual representation of a page, showing the arrangement of major elements, helping designers in designing interface structures and capturing information architecture and workflow."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "UI/UX design adalah seni memahami pengguna. Memasukkan empati dalam desain membantu menciptakan pengalaman yang sesuai dengan kebutuhan dan harapan pengguna."
+      "title": "Responsive Design",
+      "description": "Responsive Design is a web and mobile design approach that ensures users can interact with a variety of layouts, such as grid layouts, dynamic layouts, and media queries that adjust the size of the user interface based on the screen resolution."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Webflow memungkinkan desainer membuat interaksi yang menarik. Dari animasi hingga efek scroll, setiap elemen dapat diatur untuk memberikan pengalaman yang luar biasa."
+      "title": "UI-Design",
+      "description": "UI Design is a visual and interactive process for creating user interfaces for digital products, incorporating colors, typography, icons, and other elements to create intuitive, easy-to-use experiences and ensuring effective use by users."
     }
   ],
   "portfolio": [
@@ -30,7 +30,7 @@
       "id": "1",
       "src": "./img/placeholder-image.png",
       "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "",
       "link": "View In Github",
       "href": "https://github.com/git-fito21/"
     },
@@ -38,14 +38,14 @@
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "",
       "link": "View In Github"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
       "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "",
       "link": "View In Github"
     }
   ],
@@ -54,25 +54,25 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "Design nya cocok dengan apa yang saya minta",
+      "description": "It's amazing how these UI/UX projects deliver innovative solutions to complex problems. I feel more efficient and productive in my daily activities.",
       "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "author_designation": ""
     },
     {
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "Tampilan websitenya sangat keren dan udah responisive",
+      "description": "This app proves that good UI/UX design can make a big difference in user experience. I can't wait to see what's to come from this team.",
       "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "author_designation": ""
     },
     {
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Fitur-fitur nya sangat memuaskan dan udah responsive",
+      "description": "I was very impressed with the attention to detail in the UI/UX design. Every aspect of the app is meticulously designed to ensure an unmatched user experience.",
       "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "author_designation": ""
     }
   ]
 }
