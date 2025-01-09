@@ -2,77 +2,62 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
-      "title": "Prototyping",
-      "description": "Prototyping is the initial model or version of digital products, such as mobile applications or web sites, developed by designers and engineers to test functionality, ease of use, and user interaction before final implementation."
+      "src": "./img/4.png",
+      "title": "User Interface (UI) Design",
+      "description": "Expertise in creating user interfaces that are visually appealing, consistent, and in line with brand identity. This includes the use of design principles such as typography, color, iconography, and layout to ensure the interface looks professional and is easy to use."
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
-      "title": "Wireframe",
-      "description": "A wireframe is a simple, colorless visual representation of a page, showing the arrangement of major elements, helping designers in designing interface structures and capturing information architecture and workflow."
+      "src": "./img/3.png",
+      "title": "User Experience (UX) Design",
+      "description": "Ability to design intuitive and efficient user experiences. Involves processes such as user research, wireframing, prototyping, and testing to understand user needs and ensure the product meets their expectations in a simple and effective manner."
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "Responsive Design",
-      "description": "Responsive Design is a web and mobile design approach that ensures users can interact with a variety of layouts, such as grid layouts, dynamic layouts, and media queries that adjust the size of the user interface based on the screen resolution."
+      "src": "./img/2.png",
+      "title": "Front-End Development",
+      "description": "Technical skills to turn UI/UX designs into working code. Using technologies like HTML, CSS, JavaScript, and frameworks like React or Vue.js to build applications that are responsive, interactive, and compatible across devices, browsers, and screen sizes for optimal performance."
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "UI-Design",
-      "description": "UI Design is a visual and interactive process for creating user interfaces for digital products, incorporating colors, typography, icons, and other elements to create intuitive, easy-to-use experiences and ensuring effective use by users."
+      "src": "./img/1.png",
+      "title": "Responsive & Accessible Design",
+      "description": "Ensuring products are accessible across devices (desktop, tablet, smartphone) and meet web accessibility standards (WCAG). This includes using media queries, grid systems, and semantic HTML to create inclusive sites for all users, including those with disabilities."
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
+      "src": "./img/Portfolio_Adsic.png",
+      "title": "Adsic Music",
       "description": "",
-      "link": "View In Github",
-      "href": "https://github.com/git-fito21/"
+      "link": "View In Website",
+      "href": "https://adsicmusic.netlify.app/"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
+      "src": "./img/Portfolio_PT.Smartin.png",
+      "title": "PT. Smartin",
       "description": "",
-      "link": "View In Github"
-    },
-    {
-      "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "",
-      "link": "View In Github"
-    }
-  ],
-  "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "It's amazing how these UI/UX projects deliver innovative solutions to complex problems. I feel more efficient and productive in my daily activities.",
-      "author_name": "Dianne Russel",
-      "author_designation": ""
+      "link": "View In Website",
+      "href": "https://webumn.smartinsistem.com/"
     },
     {
       "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "This app proves that good UI/UX design can make a big difference in user experience. I can't wait to see what's to come from this team.",
-      "author_name": "Kristin Watson",
-      "author_designation": ""
+      "src": "./img/Portfolio_Popeye.png",
+      "title": "Popeye Apps",
+      "description": "",
+      "link": "View In Website",
+      "href": "https://www.figma.com/design/EMmnIGevDET7QQQk3hFe7Q/Project-HCI-2?node-id=0-1&p=f&t=nfI69dUOdnM3I2Uh-0"
     },
     {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "I was very impressed with the attention to detail in the UI/UX design. Every aspect of the app is meticulously designed to ensure an unmatched user experience.",
-      "author_name": "Kathryn Murphy",
-      "author_designation": ""
+      "id": "2",
+      "src": "./img/Portfolio_DishDash.png",
+      "title": "DisDash Apps",
+      "description": "",
+      "link": "View In Website",
+      "href": "https://www.figma.com/design/HLjpCBxCyrvMiGmba574tk/Starlink?node-id=0-1&p=f&t=HWZFpHgiOZqOXY3j-0"
     }
-  ]
+]
+
 }

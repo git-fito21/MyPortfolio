@@ -5,20 +5,20 @@ export default function HeroSection() {
         <div className="hero--section--content">
           <p className="section--title">Hey, I'm Arfito Saputra</p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color">Design UI/UX</span>{" "}
+            <span className="hero--section-title--color">Front-End UI/UX Development</span>{" "}
             <br />
           </h1>
           <p className="hero--section-description">
-          Are you looking for an attractive, functional, inexpensive and user-focused UI/UX design solution for your product or website?
-          In today's digital journey, great user experience is the key to success. I am a UI/UX designer ready to help you create a stunning appearance and optimal experience for your users
+          I am a Front-End UI/UX Developer with expertise in designing and building responsive, 
+          user-friendly interfaces using tools like Figma and technologies such as HTML, CSS, JavaScript, React, and TailwindCSS. 
+          I focus on creating seamless user experiences by transforming designs into clean, functional, and maintainable code. My work spans landing pages, 
+          e-commerce platforms, and web applications, delivering innovative and user-centric solutions that align with modern design and development trends.
             <br /> 
           </p>
-          <button className="btn btn-primary">Get In Touch</button>
         </div>
-
       </div>
       <div className="hero--section--img">
-        <img src="./img/Arfito.jpg"/>
+        <img src="./img/icon1.jpg"/>
       </div>
     </section>
   );
